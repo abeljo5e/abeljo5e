@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=DA0000&width=435&lines=Hi+there+;I+am+Abel+Jose+Saji;Studying+in+SJCET+PALAI;CSE+firstyear" alt="Typing SVG" /></a>
 
 
 **abeljo5e/abeljo5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
