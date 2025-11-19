@@ -37,14 +37,34 @@ Here are some ideas to get you started:
 
 
 
-<!---Github Status--->
-## 📊 GitHub Stats  
-<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=abeljo5e&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavaby&theme=highcontrast">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,godot,py,neovim,blender,bash,git" />
+  </a>
+</p>
+
+<p align="center">
+  </br>
   
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeljo5e&langs_count=8&theme=radical">
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=abeljo5e&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+<!--
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeljo5e&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+  -->
+  
+  </br>
+  </br>
 
+<!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abeljo5e&hide_border=true&show_icons=true&theme=nord&card_width=495 />
+  </a>
+-->
 
-<!--GitHub Trophies-->
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abeljo5e&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
