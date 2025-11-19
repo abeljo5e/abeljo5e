@@ -36,3 +36,15 @@ Here are some ideas to get you started:
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost)](link) 
 
 
+
+<!---Github Status--->
+## 📊 GitHub Stats  
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavaby&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavaby&theme=highcontrast">
+  
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeljo5e&langs_count=8&theme=radical">
+
+
+<!--GitHub Trophies-->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=abeljo5e&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
